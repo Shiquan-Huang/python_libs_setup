@@ -111,6 +111,8 @@ pip install torch torchvision
 echo ========== 加解密 =======================================
 pip install pycryptodome
 pip install Crypto
+echo ========== Config =======================================
+pip install ConfigParser
 echo =========== 打包 =============================================
 ::将Python程序转换成独立的执行文件（跨平台）
 pip install pyinstaller
