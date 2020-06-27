@@ -110,7 +110,7 @@ pip install python-patterns
 pip install sortedcontainers 
 pip install torch torchvision
 echo ========== º”Ω‚√‹ =======================================
-::pip install pycryptodome
+pip install pycryptodome
 pip install Crypto
 echo ========== Config =======================================
 pip install ConfigParser
