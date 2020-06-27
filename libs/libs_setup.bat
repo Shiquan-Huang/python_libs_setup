@@ -1,5 +1,6 @@
 cls
 @echo off
+color 0a
 %~d0	
 cd %~dp0
 echo %~dp0
@@ -109,7 +110,7 @@ pip install python-patterns
 pip install sortedcontainers 
 pip install torch torchvision
 echo ========== º”Ω‚√‹ =======================================
-pip install pycryptodome
+::pip install pycryptodome
 pip install Crypto
 echo ========== Config =======================================
 pip install ConfigParser
